@@ -3,9 +3,3 @@ table, th, td {
         border-collapse: collapse;
         margin:  0 auto;
       }
-p, h1{
-    text-align: center;  
-}
-img{
-    margin-left: 550px;
-}
