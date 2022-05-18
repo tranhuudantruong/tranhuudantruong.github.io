@@ -170,7 +170,7 @@ img{
 
 .home__button{
   display: inline-block;
-  background-color: var(--first-color-dark);
+  background-color: #000000
   color: var(--white-color);
   padding: 1.125rem 2rem;
   border-radius: .5rem;
