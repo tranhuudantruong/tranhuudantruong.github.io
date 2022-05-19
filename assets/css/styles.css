@@ -1,9 +1,8 @@
-
 :root{
   --header-height: 3rem;
 
   --first-color: #000000;
-  --first-color-dark: #C1576A;
+  --first-color-dark: #000000;
   --first-color-darken: #A83E51;
   --white-color: #FCF8F8;
   
@@ -199,7 +198,11 @@ img{
     margin-left: 3rem;
     margin-bottom: 0;
   }
-
+  .nav__item{
+    border-radius: 20px;
+    Background-color:#C1576A;
+    padding: 10px
+  }
   .home__container{
     height: 100vh;
     grid-template-columns: repeat(2, max-content);
