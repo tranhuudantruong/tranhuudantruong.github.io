@@ -2,7 +2,7 @@
   --header-height: 3rem;
 
   --first-color: #000000;
-  --first-color-dark: #C1576A;
+  --first-color-dark: #BF0000;
   --first-color-darken: #A83E51;
   --white-color: #FCF8F8;
   
@@ -200,7 +200,7 @@ img{
   }
   .nav__item{
     border-radius: 20px;
-    Background-color:#C1576A;
+    Background-color:#757575;
     padding: 10px
   }
   .home__container{
