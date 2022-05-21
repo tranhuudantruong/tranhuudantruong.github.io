@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="utf-8">
+	<title>
+		Halo
+	</title>
+</head>
+<body {
+background="https://wallpapercave.com/wp/wp7868472.png"
+ background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-position: center;
+} 
+
+	<br />
+
+	<h3 align="center">
+		<font face="Lato" size="6"><img src="https://ih1.redbubble.net/image.2223093420.2296/st,small,507x507-pad,600x600,f8f8f8.jpg"width="200"></font>
+		
+		&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+		
+		<div class="search">
+			
+				<input type="search" placeholder="Search........" required>
+				<button> Tìm Ki?m </button>
+
+		</div>
+		<font face="cinzel" size="6">
+			<a href="#">HOME</a>&nbsp;&nbsp;&nbsp;&nbsp;
+			<a href="https://www.youtube.com/watch?v=U_rWZK_8vUY">VIDEOS</a>&nbsp;&nbsp;&nbsp;&nbsp;
+			<a href="https://www.facebook.com/dantruong1234/">PORTFOLIO</a>&nbsp;&nbsp;&nbsp;&nbsp;
+			<a href="https://www.instagram.com/truongtwo/">INSTAGRAM</a>&nbsp;&nbsp;&nbsp;&nbsp;
+			<a href="https://github.com/tranhuudantruong">GITHUB</a>
+		</font>
+	</h3>
+	<br /><br /><br /><br /><br /><br /><br />
+	<h1 align="center">
+		<font face="Lato" color="#ff0066" size="7">
+			WELCOME TO MY WEBSITE 
+		</font>
+	</h1>
+		<table>
+            <tr>
+                <th>Th? 2</th>
+                <th>Th? 3</th>
+                <th>Th? 4</th>
+                <th>Th? 5</th>
+                <th>Th? 6</th>
+                <th>Th? 7</th>
+            </tr>
+            <tr>
+                <td>L?p trình python co b?n (Ti?t 1 - 4) </td>
+                <td>L?p trình python co b?n (Ti?t 1 - 4)</td>
+                <td>L?p ráp và b?o trì máy tính (Ti?t 1 - 4)</td>
+                <td></td>
+                <td>Thi?t k? và qu?n tr? Website (Ti?t 1 - 4)</td>
+                <td></td>
+            </tr>
+            <tr>
+                <td> </td>
+                <td>Giáo d?c th? ch?t(Ti?t 2 - 5)</td>
+                <td>Ti?ng anh CN (Ti?t 1 - 4)</td>
+                <td>Co s? d? li?u (Ti?t 1 - 4)</td>
+                <td>Thi?t k? và qu?n tr? Website (Ti?t 1 - 4)</td>
+                <td>C?u trúc d? li?u và gi?i thu?t (Ti?t 1 - 4)</td>
+            </tr>
+       
+</body>
+</html>
