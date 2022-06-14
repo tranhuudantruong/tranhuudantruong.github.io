@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="en">
+  
+        <title>Hello</title>
+    </head>
+    <body>
+        <!--===== HEADER =====-->
+        <header class="l-header">
+            <nav class="nav bd-grid">
+                <div>
+                    <a href="" class="nav__logo"> <img src="1.png "width="200px"></a>
+                  
+                </div>
+                
+                <div class="nav__toggle" id="nav-toggle">
+                    <i class='bx bx-menu'></i>
+                </div>
+
+                <div class="nav__menu" id="nav-menu">
+                    <div class="nav__close" id="nav-close">
+                        <i class='bx bx-x'></i>
+                    </div>
+
+                    <ul class="nav__list">
+                        <li class="nav__item"><a href="https://tranhuudantruong.github.io" class="nav__link">Trang Chủ</a></li>
+                        <li class="nav__item"><a href="https://tranhuudantruong.github.io/sos" class="nav__link">Thông Tin</a></li>
+                        <li class="nav__item"><a href="https://tranhuudantruong.github.io/sos" class="nav__link">Kế Hoạch</a></li>
+                        <li class="nav__item"><a href="https://tranhuudantruong.github.io/sos" class="nav__link">Liên Hệ </a></li>
+                    </ul>
+                </div>
+            </nav>
+        </header>
+
+        <main class="l-main">
+            <!--===== HOME =====-->
+            <section class="home" id="home">
+                <div class="home__container bd-grid">
+                    <div class="home__img">
+                        <img src="" alt="" data-speed="-2" class="move">
+                        <img src="" alt="" data-speed="2" class="move">
+                        <img src="" alt="" data-speed="2" class="move">
+                        <img src="" alt="" data-speed="-2" class="move">
+                        <img src="" alt="" data-speed="-2" class="move">
+                        <img src="assets/img/img3.jpg" alt="" data-speed="2" class="move">
+                    </div>
+
+                    <div class="home__data">
+
+        </main>
+
+        <!--===== GSAP =====-->
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/gsap/3.5.1/gsap.min.js"></script>
+
+        <!--===== MAIN JS =====-->
+        <script src="assets/js/main.js"></script>
+    </body>
+</html>
