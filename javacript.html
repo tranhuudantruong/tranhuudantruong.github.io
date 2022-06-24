@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+    <html>
+           <head>
+                   <style>
+		#demo{color:red;background:black;height:250px;width: 300px;font-size: 25px;}
+		button{background:red;}
+	</style>
+           </head>
+           <body>
+            <h1>Đoạn mã JavaScript được đặt trong head</h1> 
+            <p id="demo"></p>
+            <button type="button" onclick="hienthi()">Tên</button>            
+           <button type="button" onclick="tongn()">Ngày sinh</button>  
+           <button type="button" onclick="tongchan()">giới tính </button>  
+          <script>
+              function hienthi() {
+                document.getElementById("demo").innerHTML = "Trần Hữu Đan Trường";
+              }
+             function tongn() {
+	//Hiển thị tổng 1 -> 10
+                document.getElementById("demo").innerHTML = "14/08/2003";
+              }
+            function tongchan() {
+	//Hiển thị tổng chẵn 1->10
+                document.getElementById("demo").innerHTML = "Nam";
+              }
+            </script>       
+             <script type="text/javascript">
+               
+    alert("Xin chào bạn đã đến với trang web của tui !");
+</script>
+     </body>
+    </html>
