@@ -24,10 +24,17 @@
 #menu {
     list-style:none;
     display: flex;
+  
 }
 
 #menu .item {
     margin:0px 25px;
+  padding:10px;
+  background-color:#362f2f;
+  border-radius: 20px;
+}
+#menu .item a:hover{
+  color:red;
 }
 
 #menu .item a {
