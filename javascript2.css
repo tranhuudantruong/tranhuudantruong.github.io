@@ -4,7 +4,7 @@
     padding: 0;
 }
 html {
-    background-color: #9e9e9e;
+    background-color: white;
 }
 h2{
     text-align: center;
@@ -19,10 +19,10 @@ h2{
 }
 
 .trai {
-    height: 600px;
+    height: 500px;
     flex-basis: 50%;
     margin: auto;
-    background: #eb242e;
+    background: green;
     display: block;
 }
 
@@ -32,24 +32,14 @@ h2{
     font-weight: bold;
     padding: 10px;
 }
-.ngaysinh {
-    margin-left: 20px;
-    font-weight: bold;
-    float: left;
-    padding: 10px;
-}
+
 .email {
     float: left;
     margin-left: 20px;
     font-weight: bold;
     padding: 10px;
 }
-.sodienthoai {
-    margin-left: 20px;
-    font-weight: bold;
-    float: left;
-    padding: 10px;
-}
+
 .gioitinh {
     float: left;
     margin-left: 20px;
@@ -64,7 +54,6 @@ h2{
     float: left;
     padding: 10px;
 }
-
 
 .sothich {
     font-weight: bold;
@@ -85,9 +74,9 @@ button {
 }
 
 .phai {
-    height: 600px;
+    height: 500px;
     flex-basis: 50%;
-    background: #15ec88;
+    background: blue;
 }
 
 .hienthi {
