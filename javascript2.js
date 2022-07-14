@@ -3,14 +3,13 @@ const form = document.getElementById('output').addEventListener('submit', (e) =>
     const ten = document.getElementById('nhapten').value;
     document.querySelector('.output-ten').textContent = `Họ và Tên: ${ten}`;
 
-    const ngaysinh = document.getElementsById('ngaysinh').value;
-    document.querySelector('.output-ngaysinh').textContent = `Ngày sinh: ${ngaysinh}`;
-
+  const CCCD = document.getElementById('CCCD').value;
+    document.querySelector('.output-CCCD').textContent = `Số CCCD ${CCCD}`;
+  
     const email = document.getElementById('nhapemail').value;
     document.querySelector('.output-email').textContent = `Email: ${email}`;
 
-    const sodienthoai = document.getElementById('nhapsodienthoai').value;
-    document.querySelector('.output-sodienthoai').textContent = `Số điện thoại: ${sodienthoai}`;
+ 
 
     const genders = document.getElementsByName('gioitinh');
     genders.forEach(gioitinh => {
