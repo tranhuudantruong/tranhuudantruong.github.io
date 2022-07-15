@@ -13,12 +13,12 @@
             font-family: sans-serif;
         }
         section {
-            display: grid;
+            display: flex;
             place-items: center;
             min-height: 100%;
         }
         .container {
-            display: flex;
+            display: grid ;
             width: 40rem;
             min-height: 25rem;
             margin: auto;
@@ -34,7 +34,7 @@
         form > * {
             margin-bottom: 1.5em;
         }
-        form > :last-child {
+        form > :last-of-type {
             margin: 0;
         }
         .flex {
@@ -53,7 +53,7 @@
             padding: .6em 0;
         }
         .output-data {
-            display: grid;
+            display: table-cell;
             place-items: center;
             width: 100%;
             padding: 1em;
@@ -73,7 +73,7 @@
                 <form id="user-detail">
                     <h1> Bài thi kết thúc môn</h1>
                     <div class="van">
-                        <label for="van">Văn:</label>
+                        <label for="van">Văn: </label>
                         <input type="text" id="van">
 
                     <div class="toan">
@@ -96,8 +96,8 @@
 
 
                     <div class="button">
-                        <input type="submit" value="Kiểm tra" id="submit">
-                        <input type="reset" value="Hủy">
+                        <input type="submit" value="Check" id="submit">
+                        <input type="reset" value="Cancel">
                     </div>
                 </form>
             </div>
