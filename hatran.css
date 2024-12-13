@@ -19,10 +19,9 @@ h1 {
   transform: translateX(-50%);
 }
 a {
-  position: fixed;
   bottom: 0;
   text-align: center;
-  font-size: 14px;
+  font-size: 0px;
   color: #c500e3;
 }
 button {
