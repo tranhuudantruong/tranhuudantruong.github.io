@@ -15,3 +15,12 @@ button {
 div {
     margin-bottom: 20px;
 }
+
+h1 {
+    text-align: center;
+}
+
+h2 {
+    font-size: 2em; /* Tăng kích thước chữ lên gấp đôi (hoặc giá trị bạn muốn) */
+    text-align: center; /* Căn giữa tiêu đề h2 */
+}
