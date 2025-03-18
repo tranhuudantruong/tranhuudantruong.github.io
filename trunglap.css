@@ -1,0 +1,17 @@
+textarea {
+    width: 95%;
+    height: 150px;
+    margin-bottom: 10px;
+}
+
+button {
+    padding: 10px 20px;
+    background-color: #4CAF50;
+    color: white;
+    border: none;
+    cursor: pointer;
+}
+
+div {
+    margin-bottom: 20px;
+}
